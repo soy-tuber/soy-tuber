@@ -8,5 +8,3 @@ Lawyer turned solo developer. Building AI-powered search and inference tools on 
 - Shogi AI — TensorRT FP8 on RTX 5090, ranked #1 on Floodgate
 
 **Stack:** Python, SQLite, vLLM, TensorRT, Cloudflare Tunnel, systemd
-
-**Blog:** [media.patentllm.org](https://media.patentllm.org/)
